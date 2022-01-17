@@ -1,0 +1,38 @@
+.header {
+    width: 100%;
+    color: white;
+    background-color: rgb(160, 128, 97);
+    text-align: center;
+    font-size: 50px;
+}
+
+.h1 .h3, .h4 {
+    color: white;
+}
+
+.text-body {
+    color: white!important;
+}
+
+.card {
+    box-shadow: 10px 5px 20px black;
+    border-radius: 5%;
+    margin: 30px 10 px 10px 10px;
+}
+
+.card-body {
+    background-color: rgb(160, 128, 97);
+    border-radius: 5%;
+}
+
+.card-title {
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
+
+.list-group-item {
+    font-size: 10px;
+}
